@@ -1,0 +1,23 @@
+{
+  "name": "fetool-sprites",
+  "version": "0.0.1",
+  "description": "css sprites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Fetool/fetool-sprites.git"
+  },
+  "keywords": [
+    "css sprites",
+    "images minify"
+  ],
+  "author": "weilin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fetool/fetool-sprites/issues"
+  },
+  "homepage": "https://github.com/Fetool/fetool-sprites"
+}

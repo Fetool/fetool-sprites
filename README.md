@@ -1,4 +1,4 @@
-pngmin
+css sprites
 ======
 
-png compressor
+merge png with css sprites
